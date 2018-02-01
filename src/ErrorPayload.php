@@ -7,11 +7,11 @@
  * @from https://github.com/phalcon/phalcon-devtools/blob/master/scripts/Phalcon/Error/AppError.php
  */
 
-namespace Inhere\Library\Components;
+namespace MyLib\Utils;
 
 /**
  * Class ErrorPayload
- * @package Inhere\Library\Components
+ * @package MyLib\Utils
  *
  * @method int type()
  * @method string message()

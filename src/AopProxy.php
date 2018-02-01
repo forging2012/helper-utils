@@ -6,13 +6,13 @@
  * Time: 14:20
  */
 
-namespace Inhere\Library\Components;
+namespace MyLib\Utils;
 
-use Inhere\Library\Traits\AopProxyAwareTrait;
+use MyLib\Utils\Traits\AopProxyAwareTrait;
 
 /**
  * Class AopProxy
- * @package Inhere\Library\Components
+ * @package MyLib\Utils
  * $aop = new AopProxy();
  * $aop->addProxy('FileLogger::log', function() {
  *      echo 'before add log';

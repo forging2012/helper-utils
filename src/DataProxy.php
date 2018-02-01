@@ -6,11 +6,11 @@
  * Time: 下午9:39
  */
 
-namespace Inhere\Library\Components;
+namespace MyLib\Utils;
 
 /**
  * Class DataProxy
- * @package Inhere\Library\Components
+ * @package MyLib\Utils
  */
 class DataProxy
 {

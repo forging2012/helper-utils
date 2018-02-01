@@ -6,11 +6,11 @@
  * Time: 17:27
  */
 
-namespace Inhere\Library\Components;
+namespace MyLib\Utils;
 
 /**
  * Class DeferredResult
- * @package Inhere\Library\Components
+ * @package MyLib\Utils
  */
 class DataResult
 {

@@ -6,7 +6,7 @@
  * Time: 上午10:11
  */
 
-namespace Inhere\Library\Components;
+namespace MyLib\Utils;
 
 /**
  * Class PhpDotEnv - local env read

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Inhere\Library\Components;
+namespace MyLib\Utils;
 
 use Inhere\Library\Helpers\Obj;
 use Inhere\Library\Helpers\PhpHelper;

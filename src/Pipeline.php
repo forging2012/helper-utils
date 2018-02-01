@@ -7,13 +7,13 @@
  * @link https://github.com/ztsu/pipe/blob/master/src/Pipeline.php
  */
 
-namespace Inhere\Library\Components;
+namespace MyLib\Utils;
 
 use Inhere\Library\Interfaces\PipelineInterface;
 
 /**
  * Class Pipeline
- * @package Inhere\Library\Components
+ * @package MyLib\Utils
  */
 class Pipeline implements PipelineInterface
 {
