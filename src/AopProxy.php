@@ -6,9 +6,9 @@
  * Time: 14:20
  */
 
-namespace Toolkit\Util ;
+namespace Toolkit\Util;
 
-use Toolkit\Util \Traits\AopProxyAwareTrait;
+use Toolkit\Util\Traits\AopProxyAwareTrait;
 
 /**
  * Class AopProxy

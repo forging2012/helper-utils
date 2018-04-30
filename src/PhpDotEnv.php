@@ -6,7 +6,7 @@
  * Time: 上午10:11
  */
 
-namespace Toolkit\Util ;
+namespace Toolkit\Util;
 
 /**
  * Class PhpDotEnv - local env read

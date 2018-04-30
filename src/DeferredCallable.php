@@ -6,7 +6,7 @@
  * Time: 14:20
  */
 
-namespace Toolkit\Util ;
+namespace Toolkit\Util;
 
 use Inhere\Library\Helpers\PhpHelper;
 

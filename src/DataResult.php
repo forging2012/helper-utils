@@ -6,7 +6,7 @@
  * Time: 17:27
  */
 
-namespace Toolkit\Util ;
+namespace Toolkit\Util;
 
 /**
  * Class DeferredResult

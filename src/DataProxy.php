@@ -6,7 +6,7 @@
  * Time: 下午9:39
  */
 
-namespace Toolkit\Util ;
+namespace Toolkit\Util;
 
 /**
  * Class DataProxy

@@ -7,7 +7,7 @@
  * @link https://github.com/ztsu/pipe/blob/master/src/Pipeline.php
  */
 
-namespace Toolkit\Util ;
+namespace Toolkit\Util;
 
 use Inhere\Library\Interfaces\PipelineInterface;
 
